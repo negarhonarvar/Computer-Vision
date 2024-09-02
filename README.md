@@ -11,6 +11,6 @@ Small Projects done during the computer vision course instructed by dr. Naderi
     <th> Counting Number of stars in the sky from a noisy image. for succeeding in this task we had to reduce the white noises and count the significant remaining white dots as stars. </th>
   </tr>
    <tr>
-    <th><a href="https://github.com/nawidadkhah/Graph_Simulation/blob/main/Graph_Q3.ipynb">Graph 3</a></th>
-    <th>A pseudo-regular RSRG graph is constructed and the plots for degree distribution, eigenvalue distribution and Also, the parameters of spectral gap, natural connectivity, symmetry ratio, energy and Laplacian energy  is drawn.Next we Choose one from the set of p values in each step and Calculate values for that and run 100 to 1000 times . then we calculated average algebraic connection by Monte Carlo simulation and plot the probability density distribution for the allowed values of d .</th>
+    <th><a href="https://github.com/negarhonarvar/Computer-Vision/blob/main/HistogramSliding.ipynb">Histogram Sliding</a></th>
+    <th>Histograms of a number of images are plotted, then slidded to left and right which resulted in new histograms. for each slidded histogram its corresponding image is visualized which is practical for comparison between diffrent histograms.</th>
 </table>
