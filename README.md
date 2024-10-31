@@ -1,5 +1,5 @@
 # Computer Vision
-Small Projects done during the computer vision course instructed by dr. Naderi
+Projects done during the computer vision course instructed by dr. Naderi
 
 <table style="width:100%">
  <tr>
